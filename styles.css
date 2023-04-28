@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 div{
 	color:purple;
+	margin:80px 80px;
 	position:absolute;
 	padding:100px;
 	border:2px solid black;
